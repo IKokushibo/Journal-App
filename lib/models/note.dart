@@ -18,7 +18,7 @@ List<Note> sampleNotes = [
     id: 0,
     title: 'Christian James V. Torres',
     content:
-        'A 24 Year-Old Student of BSCS in Notre Dame of Tacurong College',
+        'A 24 Year-Old Student of BSCS in Notre Dame of Tacurong College. We are creating this application',
     modifiedTime: DateTime(2022,1,1,34,5),
   ),
   Note(
